@@ -31,9 +31,13 @@ class _HomeScreenState extends State<HomeScreen> {
           children: [
             Text(
               "Evaluation Task",
-              style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
+              style: TextStyle(fontSize: 30, fontWeight: FontWeight.bold),
             ),
-            Container(
+            Padding(
+              padding: const EdgeInsets.all(8.0),
+              child: Center(child: Text("This is A Test APP for AR That you can check if the two picture are related to each other or not",style: TextStyle(fontSize: 15),textAlign: TextAlign.center,)),
+            )
+            ,Container(
               color: Colors.white,
               child: ElevatedButton(onPressed: () {
                Navigator.push(context, MaterialPageRoute(builder: (BuildContext context) {
