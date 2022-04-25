@@ -143,8 +143,6 @@ using TUIO;
 			posxsadperson = o.getScreenX(width);
 
 		}
-		//Console.WriteLine(posx);
-		//Console.Read ();
 		if (o.SymbolID==10 && posxangryperson == -9999 && posxangryface == -9999 && posxsadperson == -9999 && posxsadface == -9999)
         {
 			if (posximg > posx - 200 && posximg < posx + 200)
@@ -291,7 +289,6 @@ using TUIO;
 						g.RotateTransform(-1 * (float)(tobj.Angle / Math.PI * 180.0f));
 						g.TranslateTransform(-ox, -oy);
 
-						//g.DrawString(tobj.SymbolID + "", font, fntBrush, new PointF(ox - 10, oy - 10));
 					}
 				}
 			}
