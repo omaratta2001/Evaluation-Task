@@ -1,0 +1,10 @@
+C:\Users\omar_\OneDrive\Desktop\TUIO11_NET-master\bin\Debug\TuioDemo.exe.config
+C:\Users\omar_\OneDrive\Desktop\TUIO11_NET-master\bin\Debug\TuioDemo.exe
+C:\Users\omar_\OneDrive\Desktop\TUIO11_NET-master\bin\Debug\TuioDemo.pdb
+C:\Users\omar_\OneDrive\Desktop\TUIO11_NET-master\obj\Debug\My Game.csproj.AssemblyReference.cache
+C:\Users\omar_\OneDrive\Desktop\TUIO11_NET-master\obj\Debug\My Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\omar_\OneDrive\Desktop\TUIO11_NET-master\obj\Debug\TuioDemo.resources
+C:\Users\omar_\OneDrive\Desktop\TUIO11_NET-master\obj\Debug\My Game.csproj.GenerateResource.cache
+C:\Users\omar_\OneDrive\Desktop\TUIO11_NET-master\obj\Debug\My Game.csproj.CoreCompileInputs.cache
+C:\Users\omar_\OneDrive\Desktop\TUIO11_NET-master\obj\Debug\TuioDemo.exe
+C:\Users\omar_\OneDrive\Desktop\TUIO11_NET-master\obj\Debug\TuioDemo.pdb
